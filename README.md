@@ -3,5 +3,5 @@
 
 <i>Building_Spam_Classifier.ipynb</i> : open this file in jupyter notebook or google codelab.
 <br>
-<i>spam.csv</i> : data to be loaded and trained.
+<i>spam.csv</i> : data that already clean and to be loaded and trained.
 
